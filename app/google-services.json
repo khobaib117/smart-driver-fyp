@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214926827724",
+    "project_id": "smart-driver-7a17f",
+    "storage_bucket": "smart-driver-7a17f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214926827724:android:31221236f975885a0ce269",
+        "android_client_info": {
+          "package_name": "com.smartdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214926827724-dnsvi80nm17t8c44daa9u32ualjuj042.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTA9fOTHED1yl_mXFAu5ohi60NXO0BAqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214926827724-dnsvi80nm17t8c44daa9u32ualjuj042.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_smartlogo.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_smartlogo.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_imageicon.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_imageicon.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_profile.jpg.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_profile.jpg"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_people4x.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_people4x.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_success.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_success.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_carlocation.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_carlocation.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_jazzcash.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_jazzcash.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_userimage.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_userimage.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_easypaisa.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_easypaisa.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_smartdriver.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_smartdriver.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_driver.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_driver.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_drivericon.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_drivericon.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "F:\\FYP\\v1\\SmartDriver\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]
